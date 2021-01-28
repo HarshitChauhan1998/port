@@ -11,6 +11,7 @@ img {
 img:hover {
    filter:blur(2px);
 }
+ background-size:cover;
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
