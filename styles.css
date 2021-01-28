@@ -11,8 +11,8 @@ img {
 img:hover {
    filter:blur(2px);
 }
- dive {
-    
+ #dive {
+    background: url(shutterstock_387456811-e1571653929984.jpg);
     background-repeat:no-repeat;
     background-size:cover;
 }
